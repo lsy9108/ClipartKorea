@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Another Typewriter';
+    src: url(atwriter.ttf);
+}
+
+@font-face {
+    font-family: 'Spectral SC', serif;
+    src: url('https://fonts.googleapis.com/css?family=Spectral+SC:300,400,500,600,700');
+}
+
+@font-face {
+    font-family: 'Open Sans', sans-serif;
+    src: url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700');
+}
+
+
